@@ -53,4 +53,5 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'haml-rails'
 # Active Type for database-less interactions
 gem 'active_type'
-
+# Pundit for Authorization
+gem 'pundit'

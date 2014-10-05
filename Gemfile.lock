@@ -125,6 +125,8 @@ GEM
     pg (0.17.1)
     phantomjs (1.9.7.1)
     polyglot (0.3.5)
+    pundit (0.3.0)
+      activesupport (>= 3.0.0)
     rack (1.5.2)
     rack-test (0.6.2)
       rack (>= 1.0)
@@ -229,6 +231,7 @@ DEPENDENCIES
   jquery-rails
   passenger
   pg
+  pundit
   rails (= 4.1.4)
   rspec-rails
   rvm-capistrano
